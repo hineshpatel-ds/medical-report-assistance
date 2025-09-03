@@ -1,0 +1,16 @@
+# Core
+numpy
+pandas
+
+# NLP & ML
+scikit-learn
+transformers
+torch
+spacy
+scispacy
+
+# App
+streamlit
+
+# Utilities
+tqdm
