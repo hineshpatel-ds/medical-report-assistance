@@ -1,0 +1,201 @@
+patient_id,diagnosis,medication,blood_pressure,heart_rate,glucose_level
+1,Coronary Artery Disease,Atorvastatin,103/84,63,153
+2,Hypertension,Lisinopril,136/92,84,156
+3,Asthma,Albuterol,150/63,106,77
+4,Hypertension,Amlodipine,108/90,71,167
+5,Coronary Artery Disease,Aspirin,123/80,106,142
+6,Diabetes,Metformin,131/60,70,176
+7,Hypertension,Amlodipine,123/73,87,106
+8,Asthma,Fluticasone,155/77,77,241
+9,Diabetes,Metformin,121/70,107,93
+10,Asthma,Fluticasone,108/92,97,190
+11,Asthma,Fluticasone,116/88,79,97
+12,Diabetes,Metformin,143/80,105,153
+13,Diabetes,Insulin,159/63,96,107
+14,Healthy,None,117/75,106,216
+15,Hypertension,Amlodipine,103/61,79,105
+16,Hypertension,Amlodipine,144/95,97,144
+17,Coronary Artery Disease,Atorvastatin,90/62,90,183
+18,Healthy,None,102/97,83,208
+19,Hypertension,Lisinopril,110/78,91,196
+20,Hypertension,Lisinopril,129/96,83,93
+21,Hypertension,Lisinopril,103/86,104,250
+22,Coronary Artery Disease,Aspirin,98/66,102,145
+23,Diabetes,Insulin,154/98,87,170
+24,Hypertension,Amlodipine,132/87,89,218
+25,Coronary Artery Disease,Aspirin,152/73,71,239
+26,Diabetes,Metformin,139/75,85,118
+27,Coronary Artery Disease,Atorvastatin,136/97,69,194
+28,Diabetes,Insulin,93/71,103,124
+29,Hypertension,Amlodipine,121/60,92,146
+30,Healthy,None,124/62,93,119
+31,Asthma,Albuterol,157/77,75,178
+32,Asthma,Fluticasone,157/71,63,245
+33,Hypertension,Lisinopril,109/79,93,169
+34,Healthy,None,146/73,83,203
+35,Diabetes,Insulin,142/63,102,184
+36,Diabetes,Metformin,128/66,103,201
+37,Asthma,Fluticasone,121/76,101,217
+38,Asthma,Fluticasone,121/85,105,187
+39,Hypertension,Lisinopril,113/98,106,156
+40,Healthy,None,135/92,106,126
+41,Coronary Artery Disease,Atorvastatin,124/79,92,166
+42,Asthma,Fluticasone,143/98,104,131
+43,Hypertension,Amlodipine,140/99,88,190
+44,Diabetes,Metformin,106/82,63,150
+45,Diabetes,Metformin,152/81,93,247
+46,Healthy,None,116/87,69,131
+47,Coronary Artery Disease,Aspirin,90/89,65,146
+48,Asthma,Fluticasone,97/72,79,224
+49,Hypertension,Lisinopril,92/87,92,188
+50,Hypertension,Amlodipine,132/81,88,176
+51,Coronary Artery Disease,Atorvastatin,96/65,81,208
+52,Diabetes,Metformin,116/93,65,216
+53,Healthy,None,133/100,84,78
+54,Healthy,None,154/99,65,171
+55,Coronary Artery Disease,Atorvastatin,103/77,79,125
+56,Diabetes,Metformin,143/71,94,120
+57,Healthy,None,146/80,102,127
+58,Healthy,None,146/65,73,140
+59,Hypertension,Lisinopril,105/70,74,226
+60,Asthma,Albuterol,121/68,80,149
+61,Healthy,None,102/68,110,146
+62,Asthma,Fluticasone,137/90,82,191
+63,Hypertension,Amlodipine,134/60,72,193
+64,Coronary Artery Disease,Atorvastatin,150/72,105,236
+65,Hypertension,Lisinopril,112/68,64,149
+66,Coronary Artery Disease,Aspirin,158/95,94,137
+67,Diabetes,Metformin,123/74,82,113
+68,Diabetes,Metformin,139/78,69,102
+69,Diabetes,Insulin,136/86,85,239
+70,Hypertension,Amlodipine,115/93,108,199
+71,Coronary Artery Disease,Aspirin,145/86,60,230
+72,Healthy,None,129/86,70,160
+73,Diabetes,Insulin,127/69,82,140
+74,Healthy,None,133/60,102,95
+75,Coronary Artery Disease,Aspirin,134/62,68,223
+76,Coronary Artery Disease,Atorvastatin,104/99,94,231
+77,Asthma,Fluticasone,112/71,85,226
+78,Hypertension,Amlodipine,94/66,92,128
+79,Hypertension,Amlodipine,97/60,84,193
+80,Healthy,None,98/90,68,212
+81,Diabetes,Insulin,134/89,73,193
+82,Hypertension,Amlodipine,128/60,108,112
+83,Diabetes,Insulin,129/89,76,164
+84,Coronary Artery Disease,Atorvastatin,148/90,103,230
+85,Healthy,None,109/95,74,150
+86,Healthy,None,97/76,110,100
+87,Coronary Artery Disease,Atorvastatin,101/62,102,105
+88,Hypertension,Amlodipine,154/65,104,218
+89,Healthy,None,149/88,107,114
+90,Asthma,Fluticasone,100/97,70,213
+91,Coronary Artery Disease,Atorvastatin,115/98,81,240
+92,Hypertension,Amlodipine,114/84,94,76
+93,Asthma,Fluticasone,117/88,66,150
+94,Healthy,None,145/90,76,150
+95,Hypertension,Lisinopril,117/82,63,199
+96,Diabetes,Metformin,94/80,109,190
+97,Coronary Artery Disease,Atorvastatin,95/99,110,232
+98,Healthy,None,159/68,66,162
+99,Asthma,Albuterol,105/78,92,96
+100,Healthy,None,119/65,64,228
+101,Diabetes,Metformin,124/92,83,248
+102,Diabetes,Insulin,122/94,73,148
+103,Hypertension,Lisinopril,146/98,79,144
+104,Diabetes,Metformin,154/86,64,108
+105,Healthy,None,146/83,79,213
+106,Diabetes,Metformin,109/82,110,141
+107,Coronary Artery Disease,Aspirin,118/67,108,100
+108,Coronary Artery Disease,Atorvastatin,91/66,72,178
+109,Diabetes,Insulin,113/97,80,118
+110,Healthy,None,114/88,95,104
+111,Coronary Artery Disease,Atorvastatin,106/60,88,119
+112,Coronary Artery Disease,Aspirin,96/99,105,77
+113,Hypertension,Lisinopril,156/89,77,250
+114,Healthy,None,92/96,66,206
+115,Diabetes,Metformin,144/80,70,94
+116,Asthma,Albuterol,104/64,82,222
+117,Asthma,Albuterol,95/64,60,238
+118,Healthy,None,158/95,109,167
+119,Hypertension,Amlodipine,119/99,83,247
+120,Diabetes,Metformin,146/100,85,97
+121,Coronary Artery Disease,Aspirin,156/75,103,96
+122,Healthy,None,157/90,77,190
+123,Hypertension,Amlodipine,108/76,103,241
+124,Diabetes,Metformin,123/60,106,109
+125,Coronary Artery Disease,Aspirin,93/60,108,219
+126,Healthy,None,133/83,100,212
+127,Healthy,None,96/86,98,199
+128,Hypertension,Amlodipine,106/95,74,226
+129,Healthy,None,121/84,89,186
+130,Hypertension,Amlodipine,106/99,65,136
+131,Healthy,None,124/76,109,205
+132,Diabetes,Insulin,122/94,73,137
+133,Coronary Artery Disease,Aspirin,141/100,60,92
+134,Diabetes,Metformin,152/65,67,212
+135,Coronary Artery Disease,Atorvastatin,130/91,88,87
+136,Asthma,Albuterol,140/98,81,101
+137,Coronary Artery Disease,Atorvastatin,155/81,75,205
+138,Asthma,Albuterol,139/76,102,112
+139,Hypertension,Amlodipine,92/67,99,124
+140,Hypertension,Lisinopril,136/78,65,86
+141,Hypertension,Amlodipine,141/93,102,211
+142,Diabetes,Metformin,142/80,65,75
+143,Asthma,Fluticasone,146/60,63,71
+144,Healthy,None,157/71,82,136
+145,Coronary Artery Disease,Atorvastatin,142/91,98,168
+146,Hypertension,Amlodipine,134/77,68,97
+147,Asthma,Albuterol,119/60,67,249
+148,Coronary Artery Disease,Atorvastatin,157/73,104,220
+149,Healthy,None,119/70,65,248
+150,Diabetes,Insulin,135/100,97,181
+151,Hypertension,Lisinopril,131/83,62,88
+152,Diabetes,Insulin,157/77,98,79
+153,Healthy,None,91/72,71,178
+154,Asthma,Albuterol,155/94,83,125
+155,Hypertension,Amlodipine,116/66,84,130
+156,Coronary Artery Disease,Aspirin,115/99,81,245
+157,Healthy,None,129/64,93,189
+158,Diabetes,Insulin,130/96,95,200
+159,Coronary Artery Disease,Atorvastatin,105/74,67,152
+160,Asthma,Fluticasone,98/65,107,117
+161,Hypertension,Lisinopril,127/77,102,103
+162,Hypertension,Lisinopril,120/62,84,126
+163,Asthma,Albuterol,118/72,96,237
+164,Coronary Artery Disease,Aspirin,134/83,99,98
+165,Healthy,None,136/81,79,78
+166,Diabetes,Insulin,129/67,77,250
+167,Hypertension,Amlodipine,151/96,75,226
+168,Healthy,None,139/61,80,99
+169,Coronary Artery Disease,Atorvastatin,134/67,75,240
+170,Diabetes,Metformin,143/79,71,213
+171,Healthy,None,142/93,95,217
+172,Asthma,Albuterol,129/70,108,93
+173,Healthy,None,147/99,93,244
+174,Hypertension,Amlodipine,95/71,68,109
+175,Diabetes,Insulin,103/97,89,93
+176,Coronary Artery Disease,Atorvastatin,131/84,76,170
+177,Healthy,None,154/81,109,200
+178,Hypertension,Amlodipine,121/74,68,245
+179,Hypertension,Lisinopril,92/96,94,95
+180,Coronary Artery Disease,Atorvastatin,156/72,110,197
+181,Asthma,Fluticasone,118/62,103,150
+182,Asthma,Albuterol,147/62,98,128
+183,Healthy,None,111/67,62,231
+184,Coronary Artery Disease,Aspirin,101/91,86,231
+185,Healthy,None,106/95,105,100
+186,Coronary Artery Disease,Atorvastatin,136/83,97,128
+187,Hypertension,Lisinopril,112/98,79,166
+188,Healthy,None,123/97,76,153
+189,Coronary Artery Disease,Atorvastatin,147/80,73,116
+190,Diabetes,Insulin,148/89,99,112
+191,Coronary Artery Disease,Atorvastatin,102/77,84,139
+192,Coronary Artery Disease,Aspirin,134/64,73,208
+193,Healthy,None,121/70,77,205
+194,Hypertension,Amlodipine,154/100,60,166
+195,Healthy,None,131/83,73,119
+196,Asthma,Fluticasone,92/70,67,236
+197,Diabetes,Insulin,137/83,87,87
+198,Coronary Artery Disease,Aspirin,132/73,69,203
+199,Healthy,None,151/64,69,129
+200,Diabetes,Insulin,159/97,82,121
