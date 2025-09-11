@@ -1,202 +1,202 @@
 patient_id,note_text
-0,Patient is a 80-year-old Male with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed high blood sugar. Follow-up recommended in 1 month
-1,Patient is a 63-year-old Male with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed routine check-up. Follow-up recommended in 1 month
-2,Patient is a 74-year-old Male with a history of Asthma. Presenting symptoms include difficulty breathing. Currently prescribed wheezing. Follow-up recommended in 1 month
-3,Patient is a 53-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include shortness of breath. Currently prescribed fatigue. Follow-up recommended in 2 week
-4,Patient is a 30-year-old Female with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed high blood sugar. Follow-up recommended in 2 week
-5,Patient is a 38-year-old Female with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed chest pain. Follow-up recommended in 1 month
-6,Patient is a 48-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed routine check-up. Follow-up recommended in 3 month
-7,Patient is a 68-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed no significant complaints. Follow-up recommended in 3 month
-8,Patient is a 55-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed shortness of breath. Follow-up recommended in 2 week
-9,Patient is a 48-year-old Female with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed high blood sugar. Follow-up recommended in 1 month
-10,Patient is a 36-year-old Female with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed routine check-up. Follow-up recommended in 1 month
-11,Patient is a 34-year-old Female with a history of Hypertension. Presenting symptoms include headache. Currently prescribed chest pain. Follow-up recommended in 2 week
-12,Patient is a 67-year-old Male with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed increased thirst. Follow-up recommended in 1 month
-13,Patient is a 44-year-old Male with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed shortness of breath. Follow-up recommended in 2 week
-14,Patient is a 76-year-old Female with a history of Asthma. Presenting symptoms include coughing. Currently prescribed coughing. Follow-up recommended in 2 week
-15,Patient is a 27-year-old Male with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed headache. Follow-up recommended in 3 month
-16,Patient is a 55-year-old Female with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed frequent urination. Follow-up recommended in 3 month
-17,Patient is a 74-year-old Male with a history of Diabetes. Presenting symptoms include increased thirst. Currently prescribed increased thirst. Follow-up recommended in 2 week
-18,Patient is a 59-year-old Female with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed chest pain. Follow-up recommended in 3 month
-19,Patient is a 76-year-old Female with a history of Asthma. Presenting symptoms include coughing. Currently prescribed coughing. Follow-up recommended in 3 month
-20,Patient is a 76-year-old Female with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed frequent urination. Follow-up recommended in 2 week
-21,Patient is a 39-year-old Female with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed routine check-up. Follow-up recommended in 2 week
-22,Patient is a 64-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed no significant complaints. Follow-up recommended in 3 month
-23,Patient is a 73-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed chest tightness. Follow-up recommended in 2 week
-24,Patient is a 62-year-old Male with a history of Hypertension. Presenting symptoms include headache. Currently prescribed headache. Follow-up recommended in 3 month
-25,Patient is a 78-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed shortness of breath. Follow-up recommended in 1 month
-26,Patient is a 66-year-old Female with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed no significant complaints. Follow-up recommended in 2 week
-27,Patient is a 80-year-old Male with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed chest pain. Follow-up recommended in 1 month
-28,Patient is a 56-year-old Male with a history of Asthma. Presenting symptoms include difficulty breathing. Currently prescribed coughing. Follow-up recommended in 3 month
-29,Patient is a 20-year-old Male with a history of Asthma. Presenting symptoms include coughing. Currently prescribed coughing. Follow-up recommended in 2 week
-30,Patient is a 46-year-old Male with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed shortness of breath. Follow-up recommended in 1 month
-31,Patient is a 53-year-old Female with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed high blood sugar. Follow-up recommended in 3 month
-32,Patient is a 58-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include shortness of breath. Currently prescribed chest tightness. Follow-up recommended in 2 week
-33,Patient is a 76-year-old Female with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed headache. Follow-up recommended in 3 month
-34,Patient is a 31-year-old Female with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed no significant complaints. Follow-up recommended in 3 month
-35,Patient is a 24-year-old Female with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed increased thirst. Follow-up recommended in 3 month
-36,Patient is a 43-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed shortness of breath. Follow-up recommended in 2 week
-37,Patient is a 66-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed chest tightness. Follow-up recommended in 1 month
-38,Patient is a 38-year-old Male with a history of Asthma. Presenting symptoms include coughing. Currently prescribed difficulty breathing. Follow-up recommended in 1 month
-39,Patient is a 69-year-old Female with a history of Asthma. Presenting symptoms include coughing. Currently prescribed wheezing. Follow-up recommended in 1 month
-40,Patient is a 51-year-old Female with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed high blood sugar. Follow-up recommended in 3 month
-41,Patient is a 32-year-old Female with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed no significant complaints. Follow-up recommended in 2 week
-42,Patient is a 58-year-old Female with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed shortness of breath. Follow-up recommended in 3 month
-43,Patient is a 50-year-old Female with a history of Asthma. Presenting symptoms include difficulty breathing. Currently prescribed wheezing. Follow-up recommended in 3 month
-44,Patient is a 74-year-old Female with a history of Asthma. Presenting symptoms include coughing. Currently prescribed wheezing. Follow-up recommended in 2 week
-45,Patient is a 64-year-old Male with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed headache. Follow-up recommended in 3 month
-46,Patient is a 26-year-old Female with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed chest pain. Follow-up recommended in 2 week
-47,Patient is a 22-year-old Female with a history of Asthma. Presenting symptoms include coughing. Currently prescribed coughing. Follow-up recommended in 2 week
-48,Patient is a 28-year-old Female with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed chest pain. Follow-up recommended in 2 week
-49,Patient is a 33-year-old Male with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed shortness of breath. Follow-up recommended in 3 month
-50,Patient is a 42-year-old Female with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed shortness of breath. Follow-up recommended in 1 month
-51,Patient is a 77-year-old Male with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed high blood sugar. Follow-up recommended in 1 month
-52,Patient is a 57-year-old Male with a history of Asthma. Presenting symptoms include coughing. Currently prescribed wheezing. Follow-up recommended in 1 month
-53,Patient is a 62-year-old Female with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed coughing. Follow-up recommended in 2 week
-54,Patient is a 62-year-old Male with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed wheezing. Follow-up recommended in 2 week
-55,Patient is a 47-year-old Female with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed shortness of breath. Follow-up recommended in 3 month
-56,Patient is a 45-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed no significant complaints. Follow-up recommended in 3 month
-57,Patient is a 55-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed fatigue. Follow-up recommended in 2 week
-58,Patient is a 50-year-old Male with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed coughing. Follow-up recommended in 2 week
-59,Patient is a 34-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed routine check-up. Follow-up recommended in 3 month
-60,Patient is a 60-year-old Male with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed high blood sugar. Follow-up recommended in 3 month
-61,Patient is a 63-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed shortness of breath. Follow-up recommended in 3 month
-62,Patient is a 54-year-old Female with a history of Hypertension. Presenting symptoms include headache. Currently prescribed chest pain. Follow-up recommended in 2 week
-63,Patient is a 23-year-old Male with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed shortness of breath. Follow-up recommended in 1 month
-64,Patient is a 41-year-old Male with a history of Diabetes. Presenting symptoms include increased thirst. Currently prescribed frequent urination. Follow-up recommended in 3 month
-65,Patient is a 74-year-old Female with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed chest pain. Follow-up recommended in 2 week
-66,Patient is a 21-year-old Female with a history of Asthma. Presenting symptoms include difficulty breathing. Currently prescribed wheezing. Follow-up recommended in 2 week
-67,Patient is a 47-year-old Male with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed shortness of breath. Follow-up recommended in 2 week
-68,Patient is a 75-year-old Male with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed headache. Follow-up recommended in 3 month
-69,Patient is a 37-year-old Female with a history of Asthma. Presenting symptoms include coughing. Currently prescribed coughing. Follow-up recommended in 1 month
-70,Patient is a 36-year-old Female with a history of Diabetes. Presenting symptoms include increased thirst. Currently prescribed high blood sugar. Follow-up recommended in 3 month
-71,Patient is a 54-year-old Male with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed increased thirst. Follow-up recommended in 2 week
-72,Patient is a 53-year-old Male with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed headache. Follow-up recommended in 1 month
-73,Patient is a 48-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed shortness of breath. Follow-up recommended in 1 month
-74,Patient is a 48-year-old Female with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed no significant complaints. Follow-up recommended in 2 week
-75,Patient is a 30-year-old Male with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed headache. Follow-up recommended in 3 month
-76,Patient is a 24-year-old Male with a history of Diabetes. Presenting symptoms include increased thirst. Currently prescribed increased thirst. Follow-up recommended in 2 week
-77,Patient is a 64-year-old Female with a history of Asthma. Presenting symptoms include coughing. Currently prescribed difficulty breathing. Follow-up recommended in 1 month
-78,Patient is a 21-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include shortness of breath. Currently prescribed shortness of breath. Follow-up recommended in 3 month
-79,Patient is a 34-year-old Male with a history of Asthma. Presenting symptoms include coughing. Currently prescribed difficulty breathing. Follow-up recommended in 3 month
-80,Patient is a 50-year-old Male with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed increased thirst. Follow-up recommended in 3 month
-81,Patient is a 55-year-old Male with a history of Hypertension. Presenting symptoms include headache. Currently prescribed shortness of breath. Follow-up recommended in 2 week
-82,Patient is a 38-year-old Female with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed routine check-up. Follow-up recommended in 2 week
-83,Patient is a 52-year-old Male with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed wheezing. Follow-up recommended in 3 month
-84,Patient is a 71-year-old Female with a history of Diabetes. Presenting symptoms include increased thirst. Currently prescribed high blood sugar. Follow-up recommended in 1 month
-85,Patient is a 47-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed chest tightness. Follow-up recommended in 2 week
-86,Patient is a 55-year-old Female with a history of Hypertension. Presenting symptoms include headache. Currently prescribed headache. Follow-up recommended in 1 month
-87,Patient is a 62-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed chest tightness. Follow-up recommended in 1 month
-88,Patient is a 75-year-old Male with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed frequent urination. Follow-up recommended in 3 month
-89,Patient is a 63-year-old Female with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed chest pain. Follow-up recommended in 3 month
-90,Patient is a 33-year-old Female with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed routine check-up. Follow-up recommended in 1 month
-91,Patient is a 63-year-old Male with a history of Asthma. Presenting symptoms include difficulty breathing. Currently prescribed coughing. Follow-up recommended in 3 month
-92,Patient is a 61-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include shortness of breath. Currently prescribed chest tightness. Follow-up recommended in 2 week
-93,Patient is a 32-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed shortness of breath. Follow-up recommended in 2 week
-94,Patient is a 78-year-old Female with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed frequent urination. Follow-up recommended in 2 week
-95,Patient is a 80-year-old Male with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed no significant complaints. Follow-up recommended in 3 month
-96,Patient is a 62-year-old Male with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed headache. Follow-up recommended in 1 month
-97,Patient is a 80-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed chest tightness. Follow-up recommended in 1 month
-98,Patient is a 53-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed chest tightness. Follow-up recommended in 3 month
-99,Patient is a 34-year-old Female with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed high blood sugar. Follow-up recommended in 1 month
-100,Patient is a 73-year-old Female with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed increased thirst. Follow-up recommended in 2 week
-101,Patient is a 61-year-old Female with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed chest pain. Follow-up recommended in 1 month
-102,Patient is a 65-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include shortness of breath. Currently prescribed chest tightness. Follow-up recommended in 1 month
-103,Patient is a 43-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed chest tightness. Follow-up recommended in 2 week
-104,Patient is a 34-year-old Female with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed difficulty breathing. Follow-up recommended in 2 week
-105,Patient is a 73-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed no significant complaints. Follow-up recommended in 2 week
-106,Patient is a 26-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed shortness of breath. Follow-up recommended in 1 month
-107,Patient is a 66-year-old Female with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed routine check-up. Follow-up recommended in 3 month
-108,Patient is a 54-year-old Female with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed no significant complaints. Follow-up recommended in 3 month
-109,Patient is a 44-year-old Male with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed routine check-up. Follow-up recommended in 3 month
-110,Patient is a 40-year-old Male with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed shortness of breath. Follow-up recommended in 1 month
-111,Patient is a 35-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed shortness of breath. Follow-up recommended in 2 week
-112,Patient is a 44-year-old Male with a history of Hypertension. Presenting symptoms include headache. Currently prescribed headache. Follow-up recommended in 3 month
-113,Patient is a 37-year-old Male with a history of Asthma. Presenting symptoms include coughing. Currently prescribed coughing. Follow-up recommended in 1 month
-114,Patient is a 37-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include shortness of breath. Currently prescribed fatigue. Follow-up recommended in 3 month
-115,Patient is a 69-year-old Male with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed wheezing. Follow-up recommended in 1 month
-116,Patient is a 75-year-old Male with a history of Asthma. Presenting symptoms include coughing. Currently prescribed difficulty breathing. Follow-up recommended in 1 month
-117,Patient is a 74-year-old Male with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed headache. Follow-up recommended in 3 month
-118,Patient is a 40-year-old Male with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed headache. Follow-up recommended in 3 month
-119,Patient is a 72-year-old Female with a history of Asthma. Presenting symptoms include coughing. Currently prescribed difficulty breathing. Follow-up recommended in 1 month
-120,Patient is a 28-year-old Male with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed high blood sugar. Follow-up recommended in 1 month
-121,Patient is a 40-year-old Male with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed no significant complaints. Follow-up recommended in 1 month
-122,Patient is a 55-year-old Female with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed headache. Follow-up recommended in 2 week
-123,Patient is a 49-year-old Male with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed difficulty breathing. Follow-up recommended in 2 week
-124,Patient is a 35-year-old Male with a history of Asthma. Presenting symptoms include difficulty breathing. Currently prescribed difficulty breathing. Follow-up recommended in 3 month
-125,Patient is a 41-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include shortness of breath. Currently prescribed fatigue. Follow-up recommended in 1 month
-126,Patient is a 71-year-old Female with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed wheezing. Follow-up recommended in 3 month
-127,Patient is a 46-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed routine check-up. Follow-up recommended in 2 week
-128,Patient is a 54-year-old Male with a history of Hypertension. Presenting symptoms include headache. Currently prescribed chest pain. Follow-up recommended in 2 week
-129,Patient is a 22-year-old Female with a history of Diabetes. Presenting symptoms include increased thirst. Currently prescribed frequent urination. Follow-up recommended in 2 week
-130,Patient is a 49-year-old Male with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed increased thirst. Follow-up recommended in 3 month
-131,Patient is a 57-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed chest tightness. Follow-up recommended in 2 week
-132,Patient is a 35-year-old Male with a history of Diabetes. Presenting symptoms include increased thirst. Currently prescribed frequent urination. Follow-up recommended in 3 month
-133,Patient is a 49-year-old Female with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed increased thirst. Follow-up recommended in 1 month
-134,Patient is a 56-year-old Male with a history of Hypertension. Presenting symptoms include headache. Currently prescribed chest pain. Follow-up recommended in 2 week
-135,Patient is a 45-year-old Female with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed frequent urination. Follow-up recommended in 2 week
-136,Patient is a 65-year-old Male with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed increased thirst. Follow-up recommended in 3 month
-137,Patient is a 20-year-old Female with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed headache. Follow-up recommended in 1 month
-138,Patient is a 39-year-old Female with a history of Asthma. Presenting symptoms include coughing. Currently prescribed difficulty breathing. Follow-up recommended in 1 month
-139,Patient is a 65-year-old Male with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed wheezing. Follow-up recommended in 1 month
-140,Patient is a 67-year-old Female with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed high blood sugar. Follow-up recommended in 1 month
-141,Patient is a 34-year-old Female with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed headache. Follow-up recommended in 1 month
-142,Patient is a 78-year-old Male with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed chest pain. Follow-up recommended in 1 month
-143,Patient is a 70-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed fatigue. Follow-up recommended in 3 month
-144,Patient is a 68-year-old Male with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed increased thirst. Follow-up recommended in 1 month
-145,Patient is a 23-year-old Female with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed high blood sugar. Follow-up recommended in 1 month
-146,Patient is a 60-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed fatigue. Follow-up recommended in 2 week
-147,Patient is a 20-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed shortness of breath. Follow-up recommended in 3 month
-148,Patient is a 53-year-old Male with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed high blood sugar. Follow-up recommended in 2 week
-149,Patient is a 27-year-old Female with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed no significant complaints. Follow-up recommended in 2 week
-150,Patient is a 61-year-old Male with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed headache. Follow-up recommended in 3 month
-151,Patient is a 53-year-old Female with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed routine check-up. Follow-up recommended in 2 week
-152,Patient is a 76-year-old Female with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed headache. Follow-up recommended in 1 month
-153,Patient is a 29-year-old Male with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed wheezing. Follow-up recommended in 3 month
-154,Patient is a 43-year-old Female with a history of Hypertension. Presenting symptoms include headache. Currently prescribed headache. Follow-up recommended in 3 month
-155,Patient is a 42-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed shortness of breath. Follow-up recommended in 1 month
-156,Patient is a 33-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include shortness of breath. Currently prescribed fatigue. Follow-up recommended in 1 month
-157,Patient is a 46-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include shortness of breath. Currently prescribed fatigue. Follow-up recommended in 3 month
-158,Patient is a 59-year-old Female with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed headache. Follow-up recommended in 2 week
-159,Patient is a 53-year-old Female with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed chest pain. Follow-up recommended in 2 week
-160,Patient is a 80-year-old Male with a history of Hypertension. Presenting symptoms include headache. Currently prescribed headache. Follow-up recommended in 1 month
-161,Patient is a 27-year-old Male with a history of Hypertension. Presenting symptoms include headache. Currently prescribed chest pain. Follow-up recommended in 3 month
-162,Patient is a 50-year-old Male with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed no significant complaints. Follow-up recommended in 3 month
-163,Patient is a 60-year-old Male with a history of Asthma. Presenting symptoms include difficulty breathing. Currently prescribed coughing. Follow-up recommended in 2 week
-164,Patient is a 69-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed fatigue. Follow-up recommended in 1 month
-165,Patient is a 49-year-old Female with a history of Asthma. Presenting symptoms include coughing. Currently prescribed coughing. Follow-up recommended in 1 month
-166,Patient is a 49-year-old Male with a history of Hypertension. Presenting symptoms include headache. Currently prescribed shortness of breath. Follow-up recommended in 1 month
-167,Patient is a 55-year-old Male with a history of Diabetes. Presenting symptoms include increased thirst. Currently prescribed increased thirst. Follow-up recommended in 3 month
-168,Patient is a 80-year-old Female with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed chest pain. Follow-up recommended in 1 month
-169,Patient is a 44-year-old Male with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed high blood sugar. Follow-up recommended in 2 week
-170,Patient is a 53-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed chest tightness. Follow-up recommended in 2 week
-171,Patient is a 70-year-old Male with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed routine check-up. Follow-up recommended in 3 month
-172,Patient is a 76-year-old Female with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed no significant complaints. Follow-up recommended in 3 month
-173,Patient is a 75-year-old Male with a history of Diabetes. Presenting symptoms include increased thirst. Currently prescribed increased thirst. Follow-up recommended in 3 month
-174,Patient is a 58-year-old Female with a history of Asthma. Presenting symptoms include coughing. Currently prescribed coughing. Follow-up recommended in 3 month
-175,Patient is a 71-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include shortness of breath. Currently prescribed fatigue. Follow-up recommended in 2 week
-176,Patient is a 54-year-old Male with a history of Asthma. Presenting symptoms include difficulty breathing. Currently prescribed wheezing. Follow-up recommended in 1 month
-177,Patient is a 40-year-old Male with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed increased thirst. Follow-up recommended in 2 week
-178,Patient is a 43-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed fatigue. Follow-up recommended in 2 week
-179,Patient is a 37-year-old Female with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed no significant complaints. Follow-up recommended in 2 week
-180,Patient is a 67-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed shortness of breath. Follow-up recommended in 2 week
-181,Patient is a 59-year-old Male with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed routine check-up. Follow-up recommended in 3 month
-182,Patient is a 29-year-old Female with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed chest pain. Follow-up recommended in 1 month
-183,Patient is a 25-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed no significant complaints. Follow-up recommended in 1 month
-184,Patient is a 40-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed routine check-up. Follow-up recommended in 3 month
-185,Patient is a 34-year-old Male with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed no significant complaints. Follow-up recommended in 2 week
-186,Patient is a 40-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include shortness of breath. Currently prescribed fatigue. Follow-up recommended in 1 month
-187,Patient is a 38-year-old Female with a history of Diabetes. Presenting symptoms include increased thirst. Currently prescribed high blood sugar. Follow-up recommended in 3 month
-188,Patient is a 21-year-old Male with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed frequent urination. Follow-up recommended in 3 month
-189,Patient is a 57-year-old Female with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed coughing. Follow-up recommended in 2 week
-190,Patient is a 47-year-old Male with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed chest pain. Follow-up recommended in 2 week
-191,Patient is a 27-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed shortness of breath. Follow-up recommended in 1 month
-192,Patient is a 45-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed routine check-up. Follow-up recommended in 3 month
-193,Patient is a 28-year-old Female with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed increased thirst. Follow-up recommended in 3 month
-194,Patient is a 33-year-old Male with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed wheezing. Follow-up recommended in 2 week
-195,Patient is a 35-year-old Male with a history of Asthma. Presenting symptoms include difficulty breathing. Currently prescribed coughing. Follow-up recommended in 1 month
-196,Patient is a 32-year-old Female with a history of Asthma. Presenting symptoms include coughing. Currently prescribed coughing. Follow-up recommended in 3 month
-197,Patient is a 73-year-old Male with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed chest pain. Follow-up recommended in 2 week
-198,Patient is a 63-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed chest tightness. Follow-up recommended in 1 month
-199,Patient is a 37-year-old Male with a history of Asthma. Presenting symptoms include coughing. Currently prescribed difficulty breathing. Follow-up recommended in 3 month
-200,Patient is a 70-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed routine check-up. Follow-up recommended in 2 week
+0,Patient is a 32-year-old Male with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed None. Follow-up recommended in 2 week
+1,Patient is a 65-year-old Female with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed Lisinopril. Follow-up recommended in 3 month
+2,Patient is a 20-year-old Female with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed Metformin. Follow-up recommended in 2 week
+3,Patient is a 39-year-old Female with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed Albuterol. Follow-up recommended in 2 week
+4,Patient is a 69-year-old Male with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed Amlodipine. Follow-up recommended in 1 month
+5,Patient is a 39-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed Aspirin. Follow-up recommended in 3 month
+6,Patient is a 20-year-old Male with a history of Diabetes. Presenting symptoms include increased thirst. Currently prescribed Insulin. Follow-up recommended in 2 week
+7,Patient is a 70-year-old Male with a history of Diabetes. Presenting symptoms include increased thirst. Currently prescribed Metformin. Follow-up recommended in 1 month
+8,Patient is a 29-year-old Male with a history of Hypertension. Presenting symptoms include headache. Currently prescribed Amlodipine. Follow-up recommended in 2 week
+9,Patient is a 41-year-old Female with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed Amlodipine. Follow-up recommended in 2 week
+10,Patient is a 47-year-old Female with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed Fluticasone. Follow-up recommended in 3 month
+11,Patient is a 77-year-old Female with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed None. Follow-up recommended in 1 month
+12,Patient is a 63-year-old Female with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed Amlodipine. Follow-up recommended in 3 month
+13,Patient is a 21-year-old Female with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed Amlodipine. Follow-up recommended in 1 month
+14,Patient is a 46-year-old Male with a history of Asthma. Presenting symptoms include coughing. Currently prescribed Albuterol. Follow-up recommended in 3 month
+15,Patient is a 30-year-old Male with a history of Asthma. Presenting symptoms include coughing. Currently prescribed Albuterol. Follow-up recommended in 3 month
+16,Patient is a 68-year-old Male with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed Albuterol. Follow-up recommended in 1 month
+17,Patient is a 20-year-old Female with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed Lisinopril. Follow-up recommended in 1 month
+18,Patient is a 55-year-old Female with a history of Asthma. Presenting symptoms include difficulty breathing. Currently prescribed Fluticasone. Follow-up recommended in 1 month
+19,Patient is a 49-year-old Male with a history of Asthma. Presenting symptoms include difficulty breathing. Currently prescribed Albuterol. Follow-up recommended in 3 month
+20,Patient is a 59-year-old Male with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed None. Follow-up recommended in 2 week
+21,Patient is a 28-year-old Female with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed Metformin. Follow-up recommended in 3 month
+22,Patient is a 39-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include shortness of breath. Currently prescribed Aspirin. Follow-up recommended in 1 month
+23,Patient is a 39-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed Atorvastatin. Follow-up recommended in 1 month
+24,Patient is a 64-year-old Female with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed Metformin. Follow-up recommended in 1 month
+25,Patient is a 38-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed Aspirin. Follow-up recommended in 1 month
+26,Patient is a 36-year-old Female with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed None. Follow-up recommended in 2 week
+27,Patient is a 22-year-old Male with a history of Asthma. Presenting symptoms include coughing. Currently prescribed Albuterol. Follow-up recommended in 3 month
+28,Patient is a 74-year-old Male with a history of Asthma. Presenting symptoms include difficulty breathing. Currently prescribed Fluticasone. Follow-up recommended in 2 week
+29,Patient is a 53-year-old Female with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed Metformin. Follow-up recommended in 2 week
+30,Patient is a 62-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include shortness of breath. Currently prescribed Atorvastatin. Follow-up recommended in 3 month
+31,Patient is a 33-year-old Male with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed Amlodipine. Follow-up recommended in 2 week
+32,Patient is a 31-year-old Male with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed Lisinopril. Follow-up recommended in 3 month
+33,Patient is a 23-year-old Male with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed Insulin. Follow-up recommended in 1 month
+34,Patient is a 52-year-old Male with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed Fluticasone. Follow-up recommended in 3 month
+35,Patient is a 31-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed Aspirin. Follow-up recommended in 2 week
+36,Patient is a 29-year-old Male with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed None. Follow-up recommended in 3 month
+37,Patient is a 52-year-old Female with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed None. Follow-up recommended in 3 month
+38,Patient is a 59-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed Atorvastatin. Follow-up recommended in 1 month
+39,Patient is a 44-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include shortness of breath. Currently prescribed Atorvastatin. Follow-up recommended in 3 month
+40,Patient is a 30-year-old Male with a history of Asthma. Presenting symptoms include difficulty breathing. Currently prescribed Albuterol. Follow-up recommended in 3 month
+41,Patient is a 71-year-old Male with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed Metformin. Follow-up recommended in 3 month
+42,Patient is a 30-year-old Male with a history of Diabetes. Presenting symptoms include increased thirst. Currently prescribed Insulin. Follow-up recommended in 1 month
+43,Patient is a 57-year-old Male with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed Lisinopril. Follow-up recommended in 2 week
+44,Patient is a 79-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed None. Follow-up recommended in 1 month
+45,Patient is a 65-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed Aspirin. Follow-up recommended in 3 month
+46,Patient is a 70-year-old Female with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed Insulin. Follow-up recommended in 2 week
+47,Patient is a 51-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed Aspirin. Follow-up recommended in 3 month
+48,Patient is a 32-year-old Male with a history of Diabetes. Presenting symptoms include increased thirst. Currently prescribed Insulin. Follow-up recommended in 1 month
+49,Patient is a 49-year-old Male with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed Amlodipine. Follow-up recommended in 2 week
+50,Patient is a 64-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed Aspirin. Follow-up recommended in 2 week
+51,Patient is a 25-year-old Male with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed Metformin. Follow-up recommended in 2 week
+52,Patient is a 46-year-old Female with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed Fluticasone. Follow-up recommended in 2 week
+53,Patient is a 55-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed Aspirin. Follow-up recommended in 2 week
+54,Patient is a 24-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed Aspirin. Follow-up recommended in 1 month
+55,Patient is a 80-year-old Female with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed Lisinopril. Follow-up recommended in 1 month
+56,Patient is a 40-year-old Male with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed None. Follow-up recommended in 3 month
+57,Patient is a 40-year-old Male with a history of Hypertension. Presenting symptoms include headache. Currently prescribed Lisinopril. Follow-up recommended in 2 week
+58,Patient is a 73-year-old Male with a history of Hypertension. Presenting symptoms include headache. Currently prescribed Amlodipine. Follow-up recommended in 2 week
+59,Patient is a 26-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed None. Follow-up recommended in 3 month
+60,Patient is a 37-year-old Female with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed Fluticasone. Follow-up recommended in 3 month
+61,Patient is a 60-year-old Male with a history of Hypertension. Presenting symptoms include headache. Currently prescribed Lisinopril. Follow-up recommended in 1 month
+62,Patient is a 43-year-old Female with a history of Diabetes. Presenting symptoms include increased thirst. Currently prescribed Metformin. Follow-up recommended in 3 month
+63,Patient is a 69-year-old Male with a history of Diabetes. Presenting symptoms include increased thirst. Currently prescribed Metformin. Follow-up recommended in 3 month
+64,Patient is a 40-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed Atorvastatin. Follow-up recommended in 3 month
+65,Patient is a 77-year-old Female with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed None. Follow-up recommended in 3 month
+66,Patient is a 77-year-old Male with a history of Hypertension. Presenting symptoms include headache. Currently prescribed Lisinopril. Follow-up recommended in 2 week
+67,Patient is a 31-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed None. Follow-up recommended in 2 week
+68,Patient is a 42-year-old Male with a history of Asthma. Presenting symptoms include coughing. Currently prescribed Albuterol. Follow-up recommended in 1 month
+69,Patient is a 63-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed Atorvastatin. Follow-up recommended in 1 month
+70,Patient is a 72-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed Aspirin. Follow-up recommended in 2 week
+71,Patient is a 47-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed None. Follow-up recommended in 3 month
+72,Patient is a 32-year-old Female with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed Insulin. Follow-up recommended in 2 week
+73,Patient is a 44-year-old Female with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed None. Follow-up recommended in 1 month
+74,Patient is a 58-year-old Male with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed Amlodipine. Follow-up recommended in 3 month
+75,Patient is a 75-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include shortness of breath. Currently prescribed Aspirin. Follow-up recommended in 3 month
+76,Patient is a 39-year-old Male with a history of Asthma. Presenting symptoms include difficulty breathing. Currently prescribed Fluticasone. Follow-up recommended in 2 week
+77,Patient is a 41-year-old Female with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed Insulin. Follow-up recommended in 3 month
+78,Patient is a 69-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed Atorvastatin. Follow-up recommended in 1 month
+79,Patient is a 75-year-old Male with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed Amlodipine. Follow-up recommended in 3 month
+80,Patient is a 77-year-old Male with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed None. Follow-up recommended in 2 week
+81,Patient is a 66-year-old Female with a history of Diabetes. Presenting symptoms include increased thirst. Currently prescribed Insulin. Follow-up recommended in 3 month
+82,Patient is a 30-year-old Female with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed None. Follow-up recommended in 2 week
+83,Patient is a 54-year-old Female with a history of Asthma. Presenting symptoms include coughing. Currently prescribed Albuterol. Follow-up recommended in 1 month
+84,Patient is a 59-year-old Female with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed Metformin. Follow-up recommended in 3 month
+85,Patient is a 58-year-old Male with a history of Diabetes. Presenting symptoms include increased thirst. Currently prescribed Insulin. Follow-up recommended in 1 month
+86,Patient is a 38-year-old Female with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed None. Follow-up recommended in 3 month
+87,Patient is a 74-year-old Female with a history of Hypertension. Presenting symptoms include headache. Currently prescribed Lisinopril. Follow-up recommended in 2 week
+88,Patient is a 38-year-old Female with a history of Asthma. Presenting symptoms include coughing. Currently prescribed Albuterol. Follow-up recommended in 2 week
+89,Patient is a 27-year-old Female with a history of Asthma. Presenting symptoms include coughing. Currently prescribed Fluticasone. Follow-up recommended in 2 week
+90,Patient is a 65-year-old Male with a history of Asthma. Presenting symptoms include coughing. Currently prescribed Fluticasone. Follow-up recommended in 2 week
+91,Patient is a 77-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed Aspirin. Follow-up recommended in 2 week
+92,Patient is a 68-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed Aspirin. Follow-up recommended in 1 month
+93,Patient is a 65-year-old Female with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed None. Follow-up recommended in 3 month
+94,Patient is a 78-year-old Male with a history of Asthma. Presenting symptoms include difficulty breathing. Currently prescribed Albuterol. Follow-up recommended in 2 week
+95,Patient is a 29-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed None. Follow-up recommended in 2 week
+96,Patient is a 27-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed None. Follow-up recommended in 3 month
+97,Patient is a 20-year-old Male with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed None. Follow-up recommended in 1 month
+98,Patient is a 37-year-old Female with a history of Hypertension. Presenting symptoms include headache. Currently prescribed Amlodipine. Follow-up recommended in 3 month
+99,Patient is a 48-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed Aspirin. Follow-up recommended in 3 month
+100,Patient is a 29-year-old Female with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed Albuterol. Follow-up recommended in 3 month
+101,Patient is a 32-year-old Female with a history of Hypertension. Presenting symptoms include headache. Currently prescribed Lisinopril. Follow-up recommended in 3 month
+102,Patient is a 38-year-old Male with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed Fluticasone. Follow-up recommended in 1 month
+103,Patient is a 75-year-old Female with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed Amlodipine. Follow-up recommended in 1 month
+104,Patient is a 63-year-old Male with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed Insulin. Follow-up recommended in 1 month
+105,Patient is a 74-year-old Female with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed Insulin. Follow-up recommended in 3 month
+106,Patient is a 22-year-old Male with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed Fluticasone. Follow-up recommended in 1 month
+107,Patient is a 27-year-old Male with a history of Asthma. Presenting symptoms include difficulty breathing. Currently prescribed Albuterol. Follow-up recommended in 1 month
+108,Patient is a 25-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include shortness of breath. Currently prescribed Aspirin. Follow-up recommended in 3 month
+109,Patient is a 52-year-old Female with a history of Hypertension. Presenting symptoms include headache. Currently prescribed Amlodipine. Follow-up recommended in 2 week
+110,Patient is a 28-year-old Female with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed None. Follow-up recommended in 1 month
+111,Patient is a 23-year-old Male with a history of Hypertension. Presenting symptoms include headache. Currently prescribed Amlodipine. Follow-up recommended in 1 month
+112,Patient is a 74-year-old Female with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed Fluticasone. Follow-up recommended in 1 month
+113,Patient is a 20-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed Atorvastatin. Follow-up recommended in 2 week
+114,Patient is a 66-year-old Female with a history of Asthma. Presenting symptoms include difficulty breathing. Currently prescribed Albuterol. Follow-up recommended in 1 month
+115,Patient is a 62-year-old Female with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed None. Follow-up recommended in 3 month
+116,Patient is a 68-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed None. Follow-up recommended in 2 week
+117,Patient is a 20-year-old Male with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed Insulin. Follow-up recommended in 1 month
+118,Patient is a 78-year-old Female with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed Metformin. Follow-up recommended in 3 month
+119,Patient is a 35-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include shortness of breath. Currently prescribed Aspirin. Follow-up recommended in 2 week
+120,Patient is a 29-year-old Male with a history of Hypertension. Presenting symptoms include headache. Currently prescribed Amlodipine. Follow-up recommended in 1 month
+121,Patient is a 49-year-old Male with a history of Asthma. Presenting symptoms include coughing. Currently prescribed Albuterol. Follow-up recommended in 2 week
+122,Patient is a 61-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed Aspirin. Follow-up recommended in 3 month
+123,Patient is a 53-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed None. Follow-up recommended in 1 month
+124,Patient is a 29-year-old Male with a history of Diabetes. Presenting symptoms include increased thirst. Currently prescribed Insulin. Follow-up recommended in 1 month
+125,Patient is a 40-year-old Female with a history of Asthma. Presenting symptoms include difficulty breathing. Currently prescribed Albuterol. Follow-up recommended in 2 week
+126,Patient is a 69-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed Aspirin. Follow-up recommended in 1 month
+127,Patient is a 47-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed Aspirin. Follow-up recommended in 1 month
+128,Patient is a 23-year-old Female with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed None. Follow-up recommended in 1 month
+129,Patient is a 56-year-old Female with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed None. Follow-up recommended in 2 week
+130,Patient is a 73-year-old Male with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed Amlodipine. Follow-up recommended in 2 week
+131,Patient is a 61-year-old Male with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed Metformin. Follow-up recommended in 2 week
+132,Patient is a 38-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed None. Follow-up recommended in 2 week
+133,Patient is a 34-year-old Female with a history of Asthma. Presenting symptoms include coughing. Currently prescribed Fluticasone. Follow-up recommended in 1 month
+134,Patient is a 30-year-old Female with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed Lisinopril. Follow-up recommended in 1 month
+135,Patient is a 56-year-old Female with a history of Diabetes. Presenting symptoms include increased thirst. Currently prescribed Insulin. Follow-up recommended in 3 month
+136,Patient is a 44-year-old Male with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed Insulin. Follow-up recommended in 3 month
+137,Patient is a 47-year-old Female with a history of Asthma. Presenting symptoms include coughing. Currently prescribed Fluticasone. Follow-up recommended in 2 week
+138,Patient is a 52-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include shortness of breath. Currently prescribed Aspirin. Follow-up recommended in 1 month
+139,Patient is a 41-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed Atorvastatin. Follow-up recommended in 3 month
+140,Patient is a 41-year-old Female with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed Metformin. Follow-up recommended in 3 month
+141,Patient is a 46-year-old Female with a history of Asthma. Presenting symptoms include difficulty breathing. Currently prescribed Albuterol. Follow-up recommended in 3 month
+142,Patient is a 58-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed Atorvastatin. Follow-up recommended in 3 month
+143,Patient is a 45-year-old Male with a history of Hypertension. Presenting symptoms include headache. Currently prescribed Amlodipine. Follow-up recommended in 2 week
+144,Patient is a 54-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed None. Follow-up recommended in 3 month
+145,Patient is a 66-year-old Male with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed Metformin. Follow-up recommended in 2 week
+146,Patient is a 59-year-old Female with a history of Diabetes. Presenting symptoms include increased thirst. Currently prescribed Insulin. Follow-up recommended in 3 month
+147,Patient is a 79-year-old Male with a history of Asthma. Presenting symptoms include difficulty breathing. Currently prescribed Fluticasone. Follow-up recommended in 1 month
+148,Patient is a 76-year-old Male with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed Fluticasone. Follow-up recommended in 1 month
+149,Patient is a 57-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include shortness of breath. Currently prescribed Aspirin. Follow-up recommended in 1 month
+150,Patient is a 73-year-old Female with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed None. Follow-up recommended in 1 month
+151,Patient is a 72-year-old Female with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed Amlodipine. Follow-up recommended in 2 week
+152,Patient is a 63-year-old Male with a history of Asthma. Presenting symptoms include coughing. Currently prescribed Fluticasone. Follow-up recommended in 3 month
+153,Patient is a 46-year-old Male with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed Lisinopril. Follow-up recommended in 1 month
+154,Patient is a 78-year-old Male with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed Insulin. Follow-up recommended in 1 month
+155,Patient is a 61-year-old Female with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed Metformin. Follow-up recommended in 2 week
+156,Patient is a 74-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed Aspirin. Follow-up recommended in 1 month
+157,Patient is a 54-year-old Male with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed None. Follow-up recommended in 1 month
+158,Patient is a 52-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed Aspirin. Follow-up recommended in 2 week
+159,Patient is a 74-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed Atorvastatin. Follow-up recommended in 3 month
+160,Patient is a 49-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed Aspirin. Follow-up recommended in 1 month
+161,Patient is a 36-year-old Female with a history of Asthma. Presenting symptoms include coughing. Currently prescribed Albuterol. Follow-up recommended in 3 month
+162,Patient is a 25-year-old Female with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed None. Follow-up recommended in 3 month
+163,Patient is a 20-year-old Male with a history of Asthma. Presenting symptoms include difficulty breathing. Currently prescribed Albuterol. Follow-up recommended in 1 month
+164,Patient is a 47-year-old Male with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed Lisinopril. Follow-up recommended in 2 week
+165,Patient is a 64-year-old Female with a history of Asthma. Presenting symptoms include coughing. Currently prescribed Albuterol. Follow-up recommended in 3 month
+166,Patient is a 55-year-old Female with a history of Hypertension. Presenting symptoms include headache. Currently prescribed Amlodipine. Follow-up recommended in 2 week
+167,Patient is a 34-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed Atorvastatin. Follow-up recommended in 3 month
+168,Patient is a 41-year-old Male with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed Amlodipine. Follow-up recommended in 1 month
+169,Patient is a 67-year-old Female with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed Insulin. Follow-up recommended in 2 week
+170,Patient is a 61-year-old Male with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed Lisinopril. Follow-up recommended in 3 month
+171,Patient is a 28-year-old Female with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed Fluticasone. Follow-up recommended in 2 week
+172,Patient is a 67-year-old Female with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed Amlodipine. Follow-up recommended in 1 month
+173,Patient is a 69-year-old Male with a history of Asthma. Presenting symptoms include coughing. Currently prescribed Fluticasone. Follow-up recommended in 2 week
+174,Patient is a 31-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed None. Follow-up recommended in 2 week
+175,Patient is a 37-year-old Male with a history of Hypertension. Presenting symptoms include headache. Currently prescribed Lisinopril. Follow-up recommended in 3 month
+176,Patient is a 50-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed None. Follow-up recommended in 2 week
+177,Patient is a 73-year-old Male with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed Amlodipine. Follow-up recommended in 3 month
+178,Patient is a 31-year-old Male with a history of Hypertension. Presenting symptoms include headache. Currently prescribed Lisinopril. Follow-up recommended in 3 month
+179,Patient is a 43-year-old Male with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed Amlodipine. Follow-up recommended in 3 month
+180,Patient is a 45-year-old Female with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed None. Follow-up recommended in 3 month
+181,Patient is a 47-year-old Female with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed Metformin. Follow-up recommended in 3 month
+182,Patient is a 47-year-old Female with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed None. Follow-up recommended in 3 month
+183,Patient is a 24-year-old Female with a history of Healthy. Presenting symptoms include routine check-up. Currently prescribed None. Follow-up recommended in 2 week
+184,Patient is a 23-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed Atorvastatin. Follow-up recommended in 1 month
+185,Patient is a 30-year-old Male with a history of Diabetes. Presenting symptoms include increased thirst. Currently prescribed Metformin. Follow-up recommended in 2 week
+186,Patient is a 44-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed Aspirin. Follow-up recommended in 2 week
+187,Patient is a 39-year-old Male with a history of Asthma. Presenting symptoms include wheezing. Currently prescribed Fluticasone. Follow-up recommended in 3 month
+188,Patient is a 22-year-old Male with a history of Diabetes. Presenting symptoms include high blood sugar. Currently prescribed Insulin. Follow-up recommended in 2 week
+189,Patient is a 55-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed None. Follow-up recommended in 1 month
+190,Patient is a 44-year-old Female with a history of Hypertension. Presenting symptoms include chest pain. Currently prescribed Amlodipine. Follow-up recommended in 1 month
+191,Patient is a 43-year-old Male with a history of Coronary Artery Disease. Presenting symptoms include chest tightness. Currently prescribed Aspirin. Follow-up recommended in 2 week
+192,Patient is a 77-year-old Female with a history of Asthma. Presenting symptoms include coughing. Currently prescribed Fluticasone. Follow-up recommended in 1 month
+193,Patient is a 63-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed None. Follow-up recommended in 1 month
+194,Patient is a 44-year-old Male with a history of Hypertension. Presenting symptoms include headache. Currently prescribed Lisinopril. Follow-up recommended in 3 month
+195,Patient is a 71-year-old Male with a history of Healthy. Presenting symptoms include no significant complaints. Currently prescribed None. Follow-up recommended in 1 month
+196,Patient is a 52-year-old Female with a history of Coronary Artery Disease. Presenting symptoms include fatigue. Currently prescribed Aspirin. Follow-up recommended in 2 week
+197,Patient is a 65-year-old Male with a history of Diabetes. Presenting symptoms include frequent urination. Currently prescribed Insulin. Follow-up recommended in 1 month
+198,Patient is a 27-year-old Male with a history of Hypertension. Presenting symptoms include headache. Currently prescribed Lisinopril. Follow-up recommended in 3 month
+199,Patient is a 60-year-old Female with a history of Asthma. Presenting symptoms include coughing. Currently prescribed Fluticasone. Follow-up recommended in 2 week
+200,Patient is a 80-year-old Male with a history of Hypertension. Presenting symptoms include shortness of breath. Currently prescribed Amlodipine. Follow-up recommended in 3 month
