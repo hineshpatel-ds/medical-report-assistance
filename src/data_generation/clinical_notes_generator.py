@@ -23,7 +23,7 @@ def generate_clinical_notes(num_records):
     for i in range(num_records + 1):
         diag = random.choice(list(diagnosis.keys()))
         symptom = random.choice(diagnosis[diag])
-        med = random.choice(diagnosis[diag])
+        med = random.choice(medications[diag])
 
         note = (
             f"Patient is a {random.randint(20,80)}-year-old "
