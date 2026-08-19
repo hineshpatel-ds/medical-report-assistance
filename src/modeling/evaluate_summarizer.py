@@ -15,7 +15,8 @@ from pathlib import Path
 
 import evaluate
 import pandas as pd
-from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, pipeline
+import torch
+from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 
 from src.data_ingestion.load_mtsamples import load_mtsamples
 from src.data_ingestion.load_pubmed import load_pubmed_sample
@@ -25,19 +26,26 @@ FINE_TUNED_DIR = Path("models/summarizer/final")
 ROUGE = evaluate.load("rouge")
 
 
-def summarize_batch(model_path: str, texts: list[str]) -> list[str]:
+def summarize_batch(model_path: str, texts: list[str], batch_size: int = 8) -> list[str]:
+    """Batched generate() over `texts`. Not using transformers' `pipeline()`
+    helper here: transformers 5.x dropped the "summarization" task from the
+    pipeline registry, so encoder-decoder generation is done directly.
+    """
+    device = "cuda" if torch.cuda.is_available() else "cpu"
     tokenizer = AutoTokenizer.from_pretrained(model_path)
-    model = AutoModelForSeq2SeqLM.from_pretrained(model_path)
-    summarizer = pipeline("summarization", model=model, tokenizer=tokenizer, device_map="auto")
+    model = AutoModelForSeq2SeqLM.from_pretrained(model_path).to(device).eval()
 
     prefixed = [TASK_PREFIX + t for t in texts]
-    outputs = summarizer(
-        prefixed,
-        max_length=MAX_TARGET_TOKENS,
-        truncation=True,
-        batch_size=4,
-    )
-    return [o["summary_text"] for o in outputs]
+    summaries: list[str] = []
+    with torch.no_grad():
+        for i in range(0, len(prefixed), batch_size):
+            batch = prefixed[i : i + batch_size]
+            inputs = tokenizer(
+                batch, return_tensors="pt", truncation=True, max_length=MAX_INPUT_TOKENS, padding=True
+            ).to(device)
+            output_ids = model.generate(**inputs, max_length=MAX_TARGET_TOKENS)
+            summaries.extend(tokenizer.batch_decode(output_ids, skip_special_tokens=True))
+    return summaries
 
 
 def score(predictions: list[str], references: list[str]) -> dict:

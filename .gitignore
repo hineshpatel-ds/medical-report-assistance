@@ -15,3 +15,4 @@ models/summarizer/final/
 app/assets/
 !app/assets/**
 train_summarizer.log
+eval_summarizer_out.log

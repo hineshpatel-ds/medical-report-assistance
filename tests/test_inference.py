@@ -4,9 +4,9 @@ from src.inference.summarizer import TASK_PREFIX, load_summarizer, summarize
 
 
 def _fake_summarizer(calls):
-    def run(prompt, max_length, truncation):
+    def run(prompt, max_length):
         calls.append(prompt)
-        return [{"summary_text": "fake summary"}]
+        return "fake summary"
 
     return run
 
@@ -24,7 +24,7 @@ def test_summarize_prefixes_text_for_the_model():
     assert calls[0] == TASK_PREFIX + "Patient presents with chest pain."
 
 
-def test_summarize_returns_pipeline_output():
+def test_summarize_returns_model_output():
     result = summarize("Some report text.", summarizer=_fake_summarizer([]))
     assert result == "fake summary"
 

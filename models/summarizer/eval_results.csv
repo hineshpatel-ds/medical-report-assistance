@@ -1,0 +1,5 @@
+model,dataset,rouge1,rouge2,rougeL,rougeLsum
+pretrained-t5-small (baseline),MTSamples (in-domain),0.2305,0.1329,0.2039,0.2032
+pretrained-t5-small (baseline),PubMed (out-of-domain),0.1757,0.0584,0.124,0.1519
+fine-tuned-t5-small (ours),MTSamples (in-domain),0.6306,0.5675,0.6175,0.6184
+fine-tuned-t5-small (ours),PubMed (out-of-domain),0.1403,0.0512,0.1064,0.1251

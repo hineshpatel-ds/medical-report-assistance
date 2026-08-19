@@ -95,10 +95,19 @@ MTSamples test examples, 100 PubMed sample examples); see
 
 | Model | Dataset | ROUGE-1 | ROUGE-2 | ROUGE-L |
 |---|---|---|---|---|
-| Fine-tuned t5-small | MTSamples (in-domain) | see eval_results.csv | | |
-| Pretrained t5-small (baseline) | MTSamples (in-domain) | see eval_results.csv | | |
-| Fine-tuned t5-small | PubMed (out-of-domain) | see eval_results.csv | | |
-| Pretrained t5-small (baseline) | PubMed (out-of-domain) | see eval_results.csv | | |
+| Pretrained t5-small (baseline) | MTSamples (in-domain) | 0.2305 | 0.1329 | 0.2039 |
+| Fine-tuned t5-small (ours) | MTSamples (in-domain) | 0.6306 | 0.5675 | 0.6175 |
+| Pretrained t5-small (baseline) | PubMed (out-of-domain) | 0.1757 | 0.0584 | 0.1240 |
+| Fine-tuned t5-small (ours) | PubMed (out-of-domain) | 0.1403 | 0.0512 | 0.1064 |
+
+Fine-tuning nearly tripled ROUGE-1 on the in-domain MTSamples task (0.23 -> 0.63),
+which is expected since it is now directly trained on that exact
+transcription -> description mapping. It slightly *reduced* ROUGE on the
+out-of-domain PubMed sample (0.176 -> 0.140): the model learned to produce
+short, clinical-style one-liners, which match MTSamples' real summary style
+but match PubMed's longer academic-abstract style a bit less well than the
+general-purpose pretrained baseline. That is a real, honest generalization
+trade-off of fine-tuning on a narrow domain, not a bug.
 
 ---
 
