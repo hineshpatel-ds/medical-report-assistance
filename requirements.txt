@@ -1,0 +1,36 @@
+# Core
+numpy==1.26.4
+pandas==2.3.2
+faker==37.11.0
+requests==2.34.2
+
+# EDA / plotting
+matplotlib==3.10.6
+seaborn==0.13.2
+wordcloud==1.9.4
+
+# NLP preprocessing
+nltk==3.9.1
+scikit-learn==1.7.2
+gensim==4.3.3
+
+# GenAI / summarization
+torch==2.5.1
+transformers==5.15.0
+datasets==5.0.1
+accelerate==1.14.0
+sentencepiece==0.2.2
+evaluate==0.4.6
+rouge-score==0.1.2
+
+# App
+streamlit==1.61.1
+
+# Testing
+pytest==9.1.1
+
+# --- GPU builds of torch (optional) ---
+# The pinned `torch` above installs the CPU build from PyPI. For CUDA GPU
+# training (this project was fine-tuned on an NVIDIA GTX 1650 Ti), install
+# from the PyTorch CUDA index instead, e.g.:
+#   pip install torch==2.5.1 --index-url https://download.pytorch.org/whl/cu121
